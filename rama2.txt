@@ -1,2 +1,6 @@
 un nuevo archivo desde la rama2
+<<<<<<< HEAD
 otro cambio desde main
+=======
+nueva linea en rama 2
+>>>>>>> rama2
