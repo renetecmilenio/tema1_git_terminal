@@ -1,1 +1,2 @@
 un nuevo archivo desde la rama2
+nueva linea en rama 2
